@@ -1,5 +1,8 @@
 # Look-Alike Website Detector — Backend API
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new)
+[![GitHub](https://img.shields.io/badge/GitHub-aliraza7878%2Flookalike--detector-blue?logo=github)](https://github.com/aliraza7878/lookalike-detector)
+
 An intelligent backend protecting everyday citizens, bank customers, and government portal users from phishing scams, typosquatting, and deceptive look-alike domains. Combines high-speed deterministic rules with Google Gemma 4 AI for plain-language explanations in regional languages and second-opinion ambiguity resolution.
 
 ---
